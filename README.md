@@ -48,4 +48,3 @@ f.monsalves03@ufromail.cl
 
 <p>&nbsp;</p>
 
-![Image](https://github.com/lucianosp123/brujula/blob/main/screen-0.webp?raw=true)
