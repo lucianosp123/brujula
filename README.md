@@ -40,7 +40,7 @@ Solamente gire su telefono celular y vera a que punto cardinal se esta dirigiend
 
 ### 𝑪𝑶𝑵𝑻𝑨𝑪𝑻𝑶 📞💻
 
-Los desarrolladores de la app y pagina web son:
+lucianoezequielsanzanapino@gmail.com
 
 
 
