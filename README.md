@@ -29,7 +29,7 @@ Informacion:
 
  𝑻𝑬𝑴𝑨𝑺 ⚙️
 
-![Image](https://github.com/lucianosp123/brujula/blob/main/brujula-minecraft%20(1).jpg?raw=true) 
+![Image](https://github.com/lucianosp123/brujula/blob/main/sas.png?raw=true) 
 
 <p>&nbsp;</p>
 
