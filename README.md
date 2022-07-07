@@ -3,7 +3,7 @@
 USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA YA ESTA MAGINIFICA BRUJULA
 
 
-![Image](https://github.com/lucianosp123/brujula/blob/main/brujula.webp)
+![Image](https://github.com/lucianosp123/brujula/blob/main/sis.png)
 <p>&nbsp;</p>
 
 
