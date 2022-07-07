@@ -8,7 +8,7 @@ USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA
 
 
 
-[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/lucianosp123/brujula/blob/main/brujula%20(2).apk) 
+[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/lucianosp123/brujula/blob/main/brujula%20(1).apk) 
 
 <p>&nbsp;</p>
 
