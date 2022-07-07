@@ -28,7 +28,6 @@ Informacion:
 <p>&nbsp;</p>
 
  𝑻𝑬𝑴𝑨𝑺 ⚙️
-Al pulsar el boton de  ⚙️ "Configuracion" se cambia el tema de tu brujula estos son los temas existentes:
 
 ![Image](https://github.com/lucianosp123/brujula/blob/main/brujula-minecraft%20(1).jpg?raw=true) 
 
@@ -42,7 +41,8 @@ Solamente gire su telefono celular y vera a que punto cardinal se esta dirigiend
 
 ### 𝑪𝑶𝑵𝑻𝑨𝑪𝑻𝑶 📞💻
 
-lucianoezequielsanzanapino@gmail.com
+l.sanzana02@ufromail.cl
+f.monsalves03@ufromail.cl
 
 
 
