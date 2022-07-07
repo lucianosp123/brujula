@@ -5,7 +5,7 @@ USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA
 
 ![Image](https://github.com/lucianosp123/brujula/blob/main/brujula.webp)
 <p>&nbsp;</p>
-### DESCARGA YA 🤑:
+
 
 
 [𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/nikomaufro/pag-web/raw/main/Brujula.apk) 
@@ -19,7 +19,9 @@ Informacion:
 
 -La creacion de esta app se hizo con "APPINVENTOR".
 
--La creacion de esta pagina web fue por GitHub Pages y se uso Markdown.
+-La creacion de esta pagina web fue por GitHub Pages
+
+-La brujula tambien permite el uso de camara mientras se utiliza para asi poder apreciar de forma correcta la direccion que nos dirijimos 
 
 ```
 
@@ -28,7 +30,7 @@ Informacion:
  𝑻𝑬𝑴𝑨𝑺 ⚙️
 Al pulsar el boton de  ⚙️ "Configuracion" se cambia el tema de tu brujula estos son los temas existentes:
 
-![Image](https://github.com/lucianosp123/brujula/blob/main/brujula-minecraft%20(1).jpg?raw=true)  ![Image](https://github.com/nikomaufro/pag-web/blob/main/BRUJU1.jpeg?raw=true)  ![Image](https://github.com/nikomaufro/pag-web/blob/main/BRUJU2.jpeg?raw=true)
+![Image](https://github.com/lucianosp123/brujula/blob/main/brujula-minecraft%20(1).jpg?raw=true) 
 
 <p>&nbsp;</p>
 
@@ -46,4 +48,4 @@ lucianoezequielsanzanapino@gmail.com
 
 <p>&nbsp;</p>
 
-![Image](https://github.com/nikomaufro/pag-web/blob/main/manoedit.png?raw=true)
+![Image](https://github.com/lucianosp123/brujula/blob/main/screen-0.webp?raw=true)
