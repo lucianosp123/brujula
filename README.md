@@ -21,7 +21,6 @@ Informacion:
 
 -La creacion de esta pagina web fue por GitHub Pages
 
--La brujula tambien permite el uso de camara mientras se utiliza para asi poder apreciar de forma correcta la direccion que nos dirijimos 
 
 ```
 
